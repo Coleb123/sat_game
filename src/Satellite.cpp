@@ -4,7 +4,7 @@
 Satellite::Satellite(float startAngle)
 {
     m_angle = startAngle;
-    m_speed = 30.0f;
+    m_speed = 60.0f;
     m_battery = 100.0f;
     m_inSunlight = true;
 }
